@@ -1,12 +1,5 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
-* example
-* example
-* example
-* example
-## Project Quirks/ Things that don't work
-* example
-* example
-* example
+# Ben Woolsey
+## Lab 5
+## Submission date: 10/08/24
+## Sources 
+* Class Powerpoint Slides
